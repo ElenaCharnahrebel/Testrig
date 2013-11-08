@@ -1,14 +1,15 @@
 [
-	{
+    {
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "alena",
-		"omnitureChannel" : "Bento TestRig Channel",
+		"omnitureSuite"   : "lalala",
+		"omnitureChannel" : "bento android test channel",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
 		"omnitureTrackingServer" : "sc.mtv.com",
 		"omnitureVisitorID" : "",
-		"omnitureDebugLogging" : "true" 
-    	}
+		"omnitureDebugLogging" : "true",
+                "demdexEnabled" : "true"
+     }
 ];
